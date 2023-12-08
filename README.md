@@ -7,6 +7,7 @@ Este es el examen final de software.
 ## Pregunta 1
 
 En los archivos clases.py, BD.py y app.py.
+Para probar los endpoints sugiero testfully, el CORS esta habilitado para que funcione correctamente.
 
 ## Pregunta 2
 
