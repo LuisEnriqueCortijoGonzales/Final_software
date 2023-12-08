@@ -5,6 +5,8 @@ from BD import BD
 from clases import Usuario, Mensaje
 from datetime import datetime
 
+#En total son 6 test. 3 exitosos y 3 de fallo
+
 #Hacemos 2 test por cada funcion del app, 1 donde el resultado es correcto y otro donde esperammos un error
 
 class FlaskTest(unittest.TestCase):
